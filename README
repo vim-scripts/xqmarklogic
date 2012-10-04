@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4255
+
+Vim filetype plugin enables you to run xquery files against a MarkLogic server, it displays the results in a separate window.
+
+Source: https://github.com/coledarr/vim-xqmarklogic
+
+Requirements
+
+vim (obviously), MarkLogic (probably obvious), and curl (not so obvious)
+Any recent vintage vim should work.
+MarkLogic6 works, but probably both older and newer versions will as well.
+curl needs to be available on the local machine
+
+
